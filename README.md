@@ -1,3 +1,5 @@
+# THIS IS OUDATED, NEW VERSION [HERE](https://github.com/exezin/loveblobs)
+
 loveballs
 =========
 
